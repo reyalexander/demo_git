@@ -7,3 +7,10 @@ Jueves
 Viernes
 Sabado
 Domingo
+
+
+ESTACIONES
+Verano
+Invierno
+Otoño
+Primavera
